@@ -9,6 +9,9 @@ skip-chapter-toc: true
 
 Find examples, documentation, downloads, research papers, news, and more using the links below!
 
+- Books
+    - [Learning Spark by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia](http://shop.oreilly.com/product/0636920028512.do?)
+    - [Fast Data Processing with Spark by Holden Karau](http://shop.oreilly.com/product/9781782167068.do)
 - [Powered By Spark page](https://cwiki.apache.org/confluence/display/SPARK/Powered+By+Spark) - See who is using Spark
 - API docs
     - [Spark Java/Scala API reference](http://spark.incubator.apache.org/docs/latest/api/core/index.html)
